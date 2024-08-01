@@ -1,4 +1,4 @@
-## 👋 Hi there 
+## 🧙‍♂️ Hi there 
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/danieltrolezi">
