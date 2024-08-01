@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm a gamer and software developer experienced in developing web applications.
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/danieltrolezi">
+  <a ref="https://www.linkedin.com/in/danieltrolezi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/danieltrolezi">
@@ -15,7 +15,7 @@ I'm a gamer and software developer experienced in developing web applications.
   </a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/danieltrolezi/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 ## 🐘 ⚙️ 🚀 🐳 🌐 What's here
