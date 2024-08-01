@@ -13,7 +13,7 @@ My repositories include notes, examples, and guides that I hope will be helpful 
 </p>
 
 <p align='center'>
-  <a ref="https://www.linkedin.com/in/danieltrolezi">
+  <a href="https://www.linkedin.com/in/danieltrolezi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/danieltrolezi">
