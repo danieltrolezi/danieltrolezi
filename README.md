@@ -15,12 +15,13 @@ const daniel = {
   code: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'Express.js'],
   databases: ['MySQL', 'MongoDB', 'Redis'],
   tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
-  patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture']
+  patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture'],
   architecture: ['Microservices', 'Event Driven', 'Monolithic'],
-  learningNext: ['Golang', 'Serverless', 'GraphQL']
+  learningNext: ['Golang', 'Serverless', 'GraphQL'],
   os: {
-    development: [Linux, MacOS]
-    gaming: [Windows]
+    development: ['Linux', 'MacOS'],
+    gaming: ['Windows']
+  }
 }
 ```
 
