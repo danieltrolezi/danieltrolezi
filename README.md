@@ -3,6 +3,15 @@
 Welcome to my GitHub profile!  
 I'm a gamer and software developer experienced in developing web applications.
 
+## 🐘 ⚙️ 🚀 🐳 🌐 What's here
+
+There's not much, but You'll find a mix of projects here, from small scripts to full applications.  
+My repositories include notes, examples, and guides that I hope will be helpful to others, but mostly myself 🤠.
+
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieltrolezi&theme=dark&hide_border=true" alt="danieltrolezi's GitHub Stats" />
+</p>
+
 <p align='center'>
   <a ref="https://www.linkedin.com/in/danieltrolezi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,11 +26,6 @@ I'm a gamer and software developer experienced in developing web applications.
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>
 </p>
-
-## 🐘 ⚙️ 🚀 🐳 🌐 What's here
-
-There's not much, but You'll find a mix of projects here, from small scripts to full applications.  
-My repositories include notes, examples, and guides that I hope will be helpful to others, but mostly myself 🤠.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
