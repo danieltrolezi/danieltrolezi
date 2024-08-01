@@ -30,13 +30,15 @@ My repositories include notes, examples, and guides that I hope will be helpful 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...
 
 ```javascript
-const skills = {
-  code: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'Express.js'],
-  databases: ['MySQL', 'MongoDB', 'Redis'],
-  tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
-  patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture'],
-  architecture: ['Microservices', 'Event Driven', 'Monolithic'],
-  learningNext: ['Golang', 'Serverless', 'GraphQL'],
+const daniel = {
+  skills: {
+    code: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'Express.js'],
+    databases: ['MySQL', 'MongoDB', 'Redis'],
+    tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
+    patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture'],
+    architecture: ['Microservices', 'Event Driven', 'Monolithic'],
+    learningNext: ['Golang', 'Serverless', 'GraphQL'],
+  },
   os: {
     development: ['Linux', 'MacOS'],
     gaming: ['Windows']
