@@ -16,7 +16,7 @@
 </p>
 
 Welcome to my GitHub profile!  
-I'm a gamer and software developer experienced in developing web applications.
+I'm a gamer and software engineer experienced in developing web applications.
 
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieltrolezi&theme=dark&hide_border=true" alt="danieltrolezi's GitHub Stats" />
