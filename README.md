@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there 
 
-<!--
-**danieltrolezi/danieltrolezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer based in Brazil. 
+Here's a bit about what you can find in my repositories.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐘 **PHP**
+- ⚙️ **Laravel**
+- 🚀 **Swoole**
+- 🐳 **Docker**
+- 🌐 **JavaScript**
+
+## What's Here
+
+You'll find a mix of projects here, from small scripts to full applications.  
+My repositories include notes, examples, and guides that I hope will be helpful to others.
+
+### Notable Repositories
+
+- **[Laravel Docker Setup](https://github.com/danieltrolezi/laravel-app)**: Setting up Laravel with Docker.
+- **[Swoole Application & Examples](https://github.com/danieltrolezi/swoole-app)**: A base Swoole app with HTTP and WebSocket server examples.
+
+Thanks for stopping by.
