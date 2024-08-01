@@ -1,24 +1,26 @@
 ## 👋 Hi there 
 
-Welcome to my GitHub profile! I'm a software developer based in Brazil. 
-Here's a bit about what you can find in my repositories.
+Welcome to my GitHub profile!  
+I'm a software developer experienced in developing web applications.
 
-## Technologies
-
-- 🐘 **PHP**
-- ⚙️ **Laravel**
-- 🚀 **Swoole**
-- 🐳 **Docker**
-- 🌐 **JavaScript**
-
-## What's Here
+## 🐘 ⚙️ 🚀 🐳 🌐 What's Here
 
 You'll find a mix of projects here, from small scripts to full applications.  
 My repositories include notes, examples, and guides that I hope will be helpful to others.
 
-### Notable Repositories
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- **[Laravel Docker Setup](https://github.com/danieltrolezi/laravel-app)**: Setting up Laravel with Docker.
-- **[Swoole Application & Examples](https://github.com/danieltrolezi/swoole-app)**: A base Swoole app with HTTP and WebSocket server examples.
+```javascript
+const daniel = {
+  code: [PHP, PHPUnit, Swoole, Laravel, Hyperf, Javascript, Node.js, Express.js],
+  databases: [MySQL, MongoDB, Redis],
+  tools: [AWS, New Relic, Docker, Nginx, Kafka, Kubernetes, Terraform],
+  patterns: [SOLID, REST, MVC, Clean Architecture]
+  architecture: ['microservices', 'monolithic'],
+  os: {
+    development: [Linux, MacOS]
+    gaming: [Windows]
+}
+```
 
 Thanks for stopping by.
