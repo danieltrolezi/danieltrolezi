@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I'm a software developer experienced in developing web applications.
 
-## 🐘 ⚙️ 🚀 🐳 🌐 What's Here
+## 🐘 ⚙️ 🚀 🐳 🌐 What's here
 
 You'll find a mix of projects here, from small scripts to full applications.  
 My repositories include notes, examples, and guides that I hope will be helpful to others.
