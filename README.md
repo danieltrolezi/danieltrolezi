@@ -6,7 +6,7 @@ I'm a gamer and software developer experienced in developing web applications.
 ## 🐘 ⚙️ 🚀 🐳 🌐 What's here
 
 There's not much, but You'll find a mix of projects here, from small scripts to full applications.  
-My repositories include notes, examples, and guides that I hope will be helpful to others, but mostly myself 🤠.
+My repositories include notes, examples, and guides that I hope will be helpful to others, but mostly to myself 🤠.
 
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieltrolezi&theme=dark&hide_border=true" alt="danieltrolezi's GitHub Stats" />
