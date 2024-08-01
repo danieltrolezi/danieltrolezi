@@ -12,11 +12,12 @@ My repositories include notes, examples, and guides that I hope will be helpful 
 
 ```javascript
 const daniel = {
-  code: [PHP, PHPUnit, Swoole, Laravel, Hyperf, Javascript, Node.js, Express.js],
-  databases: [MySQL, MongoDB, Redis],
-  tools: [AWS, New Relic, Docker, Nginx, Kafka, Kubernetes, Terraform],
-  patterns: [SOLID, REST, MVC, Clean Architecture]
-  architecture: ['microservices', 'monolithic'],
+  code: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'Express.js'],
+  databases: ['MySQL', 'MongoDB', 'Redis'],
+  tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
+  patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture']
+  architecture: ['Microservices', 'Event Driven', 'Monolithic'],
+  learningNext: ['Golang', 'Serverless', 'GraphQL']
   os: {
     development: [Linux, MacOS]
     gaming: [Windows]
