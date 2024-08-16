@@ -37,7 +37,7 @@ const daniel = {
     tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
     patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture'],
     architecture: ['Microservices', 'Event Driven', 'Monolithic'],
-    learningNext: ['Golang', 'Serverless', 'gRPC', 'GraphQL'],
+    learningNext: ['Golang', 'gRPC', 'Serverless', 'GraphQL'],
   },
   os: {
     development: ['Linux', 'MacOS'],
