@@ -32,10 +32,10 @@ My repositories include notes, examples, and guides that I hope will be helpful 
 ```javascript
 const daniel = {
   skills: {
-    code: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'Express.js'],
+    coding: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js'],
     databases: ['MySQL', 'MongoDB', 'Redis'],
-    tools: ['AWS', 'New Relic', 'Docker', 'Nginx', 'Kafka', 'Kubernetes', 'Terraform', 'Swagger'],
-    patterns: ['SOLID', 'REST', 'MVC', 'Clean Architecture'],
+    tools: ['AWS', 'New Relic', 'Github Actions', 'Docker', 'Kubernetes', 'Terraform', 'Kafka', 'Swagger'],
+    patterns: ['SOLID', 'REST', 'Clean Architecture'],
     architecture: ['Microservices', 'Event Driven', 'Monolithic'],
     learningNext: ['Golang', 'gRPC', 'Serverless', 'GraphQL'],
   },
