@@ -34,7 +34,7 @@ const daniel = {
   skills: {
     coding: ['PHP', 'PHPUnit', 'Swoole', 'Laravel', 'Hyperf', 'Javascript', 'Node.js', 'SOLID', 'REST'],
     databases: ['MySQL', 'MongoDB', 'Firestore', 'Redis'],
-    tools: ['AWS', 'GCP', 'New Relic', 'Github Actions', 'Docker', 'Kubernetes', 'Terraform', 'Kafka', 'Swagger'],
+    tools: ['AWS', 'GCP', 'New Relic', 'Git', 'Github Actions', 'Docker', 'Kubernetes', 'Terraform', 'Kafka', 'Swagger'],
     architecture: ['Microservices', 'Event Driven', 'Monolithic'],
     learningNext: ['Golang', 'gRPC', 'Serverless', 'GraphQL'],
   },
